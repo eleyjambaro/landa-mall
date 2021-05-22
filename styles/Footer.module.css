@@ -9,18 +9,6 @@
   align-items: center;
 }
 
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-}
-
-.copyright-info {
-  display: flex;
-  justify-content: space-between;
-}
-
 .landa-info p,
 .vercel-info p {
   color: var(--neutral-lighten-2);

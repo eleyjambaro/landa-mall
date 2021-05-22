@@ -9,7 +9,7 @@ const DefaultLayout = (props) => {
     <>
       <CustomHead />
       <Navbar />
-      <div className="container-sm">{children}</div>
+      <div className="container-md">{children}</div>
       <Footer />
     </>
   );
