@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  height: auto;
+  border-top: 1px solid var(--border-color);
+  padding: 2rem;
+  background-color: var(--dimmed);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landa-info p,
+.vercel-info p {
+  color: var(--neutral-lighten-2);
+  font-size: 0.8rem;
+}
